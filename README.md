@@ -7,7 +7,7 @@ A ideia do projeto ***Horta Sustentavel Residêncial*** nasceu na **Imersão IA 
 ### Esta aplicação vem ajudar as pessoas a produzirem alimentos de forma sustentável, dando dicas de como cultivar vegetais, ervas e frutas em pequenos espaços com a ajuda de vasos.
 
 ## Interface:
-
+![Tela](images/tela_horta_sustentavel_residencial.png)
 ## Linguagem utilizada:
 - [PYTHON](https://www.python.org/)
 
