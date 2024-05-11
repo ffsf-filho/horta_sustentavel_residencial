@@ -17,3 +17,19 @@ A ideia do projeto ***Horta Sustentavel Residêncial*** nasceu na **Imersão IA 
 
 ## Ambiente
 - [Google Colab](https://colab.research.google.com/)
+
+### Autor
+---
+<table>
+  <tr>
+      <td>
+        <a href="https://github.com/ffsf-filho">
+          <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/70358338?v=4" width="100px;" alt="Francisco F S Filho">
+          <br />
+          <sub>
+            <b>Francisco F S Filho</b>
+          </sub>
+        </a>
+      </td>
+  </tr>
+</table>
