@@ -6,8 +6,22 @@ A ideia do projeto ***Horta Sustentavel Residêncial*** nasceu na **Imersão IA 
 
 ### Esta aplicação vem ajudar as pessoas a produzirem alimentos de forma sustentável, dando dicas de como cultivar vegetais, ervas e frutas em pequenos espaços com a ajuda de vasos.
 
+## Execução
+**Importante :**  
+Substituir no código a **SECRET_API_GEMINI** pela sua chave, infelizmente o GitHub não consegue executar o projeto automáticamente, devido a instalação de SDKs especificos do Gemini e gradio .
+```
+//Código dentro do arquivo horta_sustentavel_residencial.ipynb
+GOOGLE_API_KEY= userdata.get('SECRET_API_GEMINI')
+```
+
+Você pode fazer o clone do projeto e abrir o arquivo ( *horta_sustentavel_residencial.ipynb* ) no [Google Colab](https://colab.research.google.com/) e executar.
+```
+git clone https://github.com/ffsf-filho/horta_sustentavel_residencial.git
+```
+
 ## Interface:
-![Tela](images/tela_horta_sustentavel_residencial.png)
+![Tela](images/tela_horta_sustentavel_residencial2.png)
+
 ## Linguagem utilizada:
 - [PYTHON](https://www.python.org/)
 
