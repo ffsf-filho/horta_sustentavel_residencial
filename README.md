@@ -1,6 +1,6 @@
 # **Projeto** - Horta Sustentavel Residêncial
 
-A ideia do projeto ***Horta Sustentavel Residêncial*** nasceu na **Imersão IA (2ª Edição)** promovida pela [**Alura**](https://www.alura.com.br/) com parceria do [**Google**](https://www.google.com.br/), para demonstrar o uso da [***API Google Gemini***](https://gemini.google.com/app) que é ua IA **Multi Modal**, dando insights de como utilizar a IA para resolver problemas e melhorar os desempenhos e a produtividade.
+A ideia do projeto ***Horta Sustentavel Residêncial*** nasceu na **Imersão IA (2ª Edição)** promovida pela [**Alura**](https://www.alura.com.br/) com parceria do [**Google**](https://www.google.com.br/), para demonstrar o uso da [***API Google Gemini***](https://gemini.google.com/app) que é uma IA **Multi Modal**, dando insights de como utilizar a IA para resolver problemas e melhorar os desempenhos e a produtividade.
 
 ## **Problema** - Produzir alimento em residência
 
